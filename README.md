@@ -8,7 +8,7 @@ https://objectstorage.uk-london-1.oraclecloud.com/n/odemeasouth/b/jotb2019/o/myk
 
 Public IP:
 jotb1 150.136.197.219
-jotb2 
+jotb2 129.213.74.113 
 jotb3 129.213.198.233
 jotb4 129.213.189.147
 jotb5 129.213.14.14
