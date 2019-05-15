@@ -15,3 +15,6 @@ jotb5 129.213.14.14
 jotb6 129.213.72.16
 jotb7 129.213.181.4
 jotb8 129.213.189.119
+
+pipeline CD/CI for dockerizing
+https://app.wercker.com/
